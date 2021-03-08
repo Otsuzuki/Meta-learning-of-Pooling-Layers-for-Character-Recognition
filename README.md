@@ -29,23 +29,14 @@ The file ```train.py``` contains the data generation code. You must specify the 
   Example:  
 ```python train.py --problem Half_maxavg```
  
-# Usage
+# Character Recognition (Omniglot)
  
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+WIP
  
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
- 
-# Author
- 
-作成情報を列挙する
- 
-* 作成者
-* 所属
-* E-mail
+# Author 
+* Author : Takato Otsuzuki, Hideaki Hayashi, Heon Song, Seiichi Uchida
+* Affiliation : Kyushu University, Fukuoka, Japan
+* Contact E-mail : takato.otsuzuki@human.ait.kyushu-u.ac.jp, hayashi@ait.kyushu-u.ac.jp
  
 # License
 ライセンスを明示する
