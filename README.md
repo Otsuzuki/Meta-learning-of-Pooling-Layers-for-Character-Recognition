@@ -19,8 +19,10 @@ Code and meta-parameters corresponding to Meta-learning of Pooling Layers for Ch
 * huga 3.5.2
 * hogehuga 1.0.2
  
-# Installation
- 
+# Simulation of Artificial 1D data
+## Generate data
+The file generate_synthetic_data.py contains the data generation code. You must specify the name of the problem we wish to generate data for. Options are:
+
 Requirementで列挙したライブラリなどのインストール方法を説明する
  
 ```bash
