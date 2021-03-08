@@ -21,7 +21,7 @@ Code and meta-parameters corresponding to Meta-learning of Pooling Layers for Ch
  
 # Simulation of Artificial 1D data
 ## Generate data
-The file ```bashgenerate_synthetic_data.py``` contains the data generation code. You must specify the name of the problem we wish to generate data for. Options are:
+The file ```train.py``` contains the data generation code. You must specify the name of the problem we wish to generate data for. Options are:
 
 Requirementで列挙したライブラリなどのインストール方法を説明する
  
