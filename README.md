@@ -5,6 +5,12 @@ Code and meta-parameters corresponding to Meta-learning of Pooling Layers for Ch
 # Features
  
 "hoge"のセールスポイントや差別化などを説明する
+
+<div align="center">
+<img src=./figures/figure2-7.jpg title="タイトル">
+</div>
+
+<!-- <img src=./figures/figure2-7.jpg width="460px"> -->
  
 # Requirement
  
