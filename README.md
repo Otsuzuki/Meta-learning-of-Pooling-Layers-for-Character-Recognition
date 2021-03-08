@@ -7,7 +7,7 @@ Code and meta-parameters corresponding to Meta-learning of Pooling Layers for Ch
 "hoge"のセールスポイントや差別化などを説明する
 
 <div align="center">
-<img src=./figures/figure2-7.jpg title="タイトル">
+<img src=./figures/figure2-7.jpg alt="属性" title="タイトル">
 </div>
 
 <!-- <img src=./figures/figure2-7.jpg width="460px"> -->
