@@ -1,12 +1,6 @@
 # Meta-learning-of-Pooling-Layers-for-Character-Recognition
 
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
- 
-"hoge"が何かを簡潔に紹介する
- 
-# DEMO
- 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+Code and meta-parameters corresponding to Meta-learning-of-Pooling-Layers-for-Character-Recognition, found at this arXiv link.
  
 # Features
  
