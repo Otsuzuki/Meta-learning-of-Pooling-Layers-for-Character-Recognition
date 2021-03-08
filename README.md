@@ -1,6 +1,6 @@
 # Meta-learning of Pooling Layers for Character Recognition
 
-Code and meta-parameters corresponding to Meta-learning-of-Pooling-Layers-for-Character-Recognition, found at this arXiv link.
+Code and meta-parameters corresponding to Meta-learning of Pooling Layers for Character Recognition, found at this arXiv link.
  
 # Features
  
