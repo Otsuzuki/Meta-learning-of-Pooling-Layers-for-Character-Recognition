@@ -26,6 +26,8 @@ The file ```train.py``` contains the data generation code. You must specify the 
 * ```Max```
 * ```Average```
 * ```Half_maxavg```
+Example:
+```python train.py --problem Half_maxavg```
  
 # Usage
  
