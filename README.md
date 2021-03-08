@@ -23,11 +23,9 @@ Code and meta-parameters corresponding to Meta-learning of Pooling Layers for Ch
 ## Generate data
 The file ```train.py``` contains the data generation code. You must specify the name of the problem we wish to generate data for. Options are:
 
-Requirementで列挙したライブラリなどのインストール方法を説明する
- 
-```bash
-pip install huga_package
-```
+* ```Max```
+* ```Average```
+* ```Half_maxavg```
  
 # Usage
  
@@ -38,10 +36,6 @@ git clone https://github.com/hoge/~
 cd examples
 python demo.py
 ```
- 
-# Note
- 
-注意点などがあれば書く
  
 # Author
  
