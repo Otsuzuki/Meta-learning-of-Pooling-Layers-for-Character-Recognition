@@ -7,6 +7,7 @@ Code and meta-parameters corresponding to Meta-learning of Pooling Layers for Ch
 We propose a meta-learning framework for pooling layers. In our framework, a parameterized pooling layer is proposed in which the kernel shape and pooling operation are trainable using two parameters, thereby allowing a flexible pooling of the input data as shown in figure (c). 
 In figure (a) and (b), the max and average values are calculated for each kernel. Also, all the kernels share the same shape and operation. 
 In figure (c), the proposed meta-learned pooling employs different shapes and operations in individual kernels. 
+We also propose a meta-learning algorithm for the parameterized pooling layer, which allows us to acquire a suitable pooling layer across multiple tasks. 
 
 <div align="center">
 <img src=./figures/PoolingComparison.png alt="属性" title="タイトル">
