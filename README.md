@@ -4,7 +4,9 @@ Code and meta-parameters corresponding to Meta-learning of Pooling Layers for Ch
  
 # Features
  
-"hoge"のセールスポイントや差別化などを説明する
+We propose a meta-learning framework for pooling layers. In our framework, a parameterized pooling layer is proposed in which the kernel shape and pooling operation are trainable using two parameters, thereby allowing a flexible pooling of the input data as shown in figure (c). 
+In figure (a) and (b), the max and average values are calculated for each kernel. Also, all the kernels share the same shape and operation. 
+In figure (c), the proposed meta-learned pooling employs different shapes and operations in individual kernels. 
 
 <div align="center">
 <img src=./figures/PoolingComparison.png alt="属性" title="タイトル">
