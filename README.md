@@ -12,12 +12,9 @@ Code and meta-parameters corresponding to Meta-learning of Pooling Layers for Ch
 
 <!-- <img src=./figures/figure2-7.jpg width="460px"> -->
  
-# Requirement
+# Installation and requirements
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
- 
-* huga 3.5.2
-* hogehuga 1.0.2
+All experiments were run in a conda environment with python 3.7.4, using pytorch 1.4.0. The conda environment we used is exported in environment.yml.
  
 # Simulation of Artificial 1D data
 ## Generate data
@@ -41,12 +38,3 @@ WIP
 * Author : Takato Otsuzuki, Hideaki Hayashi, Heon Song, Seiichi Uchida
 * Affiliation : Kyushu University, Fukuoka, Japan
 * Contact E-mail : takato.otsuzuki@human.ait.kyushu-u.ac.jp, hayashi@ait.kyushu-u.ac.jp
- 
-# License
-ライセンスを明示する
- 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
