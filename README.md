@@ -37,7 +37,7 @@ python generate_data.py --problem Square_1d
 ```
 
 ## Train
-The file train_synthetic.py contains training and evaluation code.　The ```problem``` argument controls which artificial data is used. The argument ```model``` controls the 1D pooling layer, 2D pooling layer.
+The file ```train.py``` contains training and evaluation code.　The ```problem``` argument controls which artificial data is used. The argument ```model``` controls the 1D pooling layer, 2D pooling layer.
 
 Some examples are given below:
 ```
