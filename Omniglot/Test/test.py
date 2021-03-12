@@ -141,7 +141,7 @@ def main():
         net=MetaLinearModel(args).to(device)
     elif args.model == "MetaConvModel":
         net=MetaConvModel(args).to(device)
-        # net.load_state_dict(torch.load('./model.pth', map_location=device))
+        net.load_state_dict(torch.load('./model.pth', map_location=device))
     else:
         raise ValueError(f"Invalid model {args.model}")
 
